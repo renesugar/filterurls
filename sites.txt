@@ -1,0 +1,15 @@
+accounts.google.com
+contacts.google.com
+mail.google.com
+hangouts.google.com
+//tpc.googlesyndication.com
+//googleads.g.doubleclick.net
+//www.google.com/
+//www.google.com
+//github.com
+//medium.com
+//sourceforge.net
+//twitter.com
+//twitter.com/home
+//twitter.com/settings/account
+//newtab/
